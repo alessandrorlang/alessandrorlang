@@ -1,6 +1,10 @@
 👋 Hello, I’m Alessandro! for short, just call me Ale.
 
-👀 I’m well experienced in HTML, Javascript, Fluter, Dart, Java and C.
+👀 A Fresh graduate CS degree with 1 year of study in UI/UX field.
+
+Proficient in mobile app development: Swift & Flutter.
+
+reach me out through linkedin!
 
 <!---
 alessandrorlang/alessandrorlang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
